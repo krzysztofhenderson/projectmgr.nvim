@@ -50,3 +50,4 @@ Notes and usage details for projectmgr.nvim.
 - link the usage section
 - link the usage section
 - clarify the setup steps
+- add a note about the defaults
