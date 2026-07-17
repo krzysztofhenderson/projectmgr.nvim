@@ -59,3 +59,4 @@ Notes and usage details for projectmgr.nvim.
 - add a note about the defaults
 - fix a small wording issue
 - add a note about the defaults
+- fix a small wording issue
